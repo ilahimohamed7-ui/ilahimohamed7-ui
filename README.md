@@ -28,6 +28,8 @@ Ich habe einen KI-Telefonagenten entwickelt, der am Beispiel eines Friseursalons
 - Abfrage und Verarbeitung von Termindaten
 - Automatisierte Unterstützung bei der Terminverwaltung
 
+[Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/ki-telefonagent)
+
 ### 2. KI-E-Mail-Agent
 
 **Teamprojekt · Python · KI-Integration · E-Mail- und Kalenderanbindung**
@@ -56,6 +58,8 @@ Das Frontend basiert auf React, während Node.js und Express für die serverseit
 - Arbeit mit PostgreSQL und MongoDB
 - Zusammenspiel von Client, Server und Datenbank
 - Testing und Qualitätssicherung
+
+[Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/ToDo-App)
 
 ### 4. Patientenverwaltung
 
