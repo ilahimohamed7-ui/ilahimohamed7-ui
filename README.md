@@ -6,7 +6,7 @@ Besonders interessiert mich, wie sich verschiedene Technologien miteinander verb
 
 ## Kenntnisse und Technologien
 
-- **Programmiersprachen:** Python, JavaScript, C++
+- **Programmiersprachen:** Python, TypeScript, C++
 - **Webentwicklung:** React, Node.js, Express, HTML, CSS, Angular (Grundlagen)
 - **Datenbanken:** PostgreSQL, MongoDB, Supabase
 - **Tools:** Git, GitHub, Visual Studio Code, Visual studio code community, Jira
