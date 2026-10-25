@@ -32,9 +32,9 @@ Ich habe einen Demo KI-Telefonagenten entwickelt, der am Beispiel eines Friseurs
 
 ### 2. KI-E-Mail-Agent
 
-**Teamprojekt · Python · KI-Integration · E-Mail- und Kalenderanbindung**
+**Einzelprojekt · Python · KI-Integration · E-Mail- und Kalenderanbindung**
 
-Gemeinsam mit einem Kollegen habe ich einen KI-E-Mail-Agenten entwickelt, der E-Mails einliest, zusammenfasst und Antwortvorschläge erstellt. Außerdem erkennt er Termine in E-Mails und kann diese in einen Kalender eintragen.
+Ich habe einen KI-E-Mail-Agenten entwickelt, der E-Mails einliest, zusammenfasst und Antwortvorschläge erstellt. Außerdem erkennt er Termine in E-Mails und kann diese in einen Kalender eintragen.
 
 **Technische Schwerpunkte:**
 - Verarbeitung und Analyse von E-Mail-Inhalten
