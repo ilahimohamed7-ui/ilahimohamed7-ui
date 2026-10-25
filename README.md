@@ -18,7 +18,7 @@ Besonders interessiert mich, wie sich verschiedene Technologien miteinander verb
 
 **Einzelprojekt · Python · FastAPI · Supabase · SQL · Retell AI**
 
-Ich habe einen KI-Telefonagenten entwickelt, der am Beispiel eines Friseursalons eingehende Anrufe entgegennimmt und mit Anrufern über Terminwünsche spricht.
+Ich habe einen Demo KI-Telefonagenten entwickelt, der am Beispiel eines Friseursalons eingehende Anrufe entgegennimmt und mit Anrufern über Terminwünsche spricht.
 
 Über Supabase ist der Agent mit einer SQL-Datenbank verbunden. Er kann die Verfügbarkeit von Terminen prüfen und Termine hinzufügen oder absagen.
 
