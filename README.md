@@ -14,7 +14,7 @@ Besonders interessiert mich, wie sich verschiedene Technologien miteinander verb
 
 ## Projekte
 
-### 1. KI-Telefonagent
+### 1. KI-Telefon-Assistent
 
 **Einzelprojekt · Python · FastAPI · Supabase · SQL · Retell AI**
 
@@ -30,11 +30,11 @@ Ich habe einen Demo KI-Telefonagenten entwickelt, der am Beispiel eines Friseurs
 
 [Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/ki-telefonagent)
 
-### 2. KI-E-Mail-Agent
+### 2. KI-E-Mail-Assistent
 
 **Einzelprojekt · Python · KI-Integration · E-Mail- und Kalenderanbindung**
 
-Ich habe einen KI-E-Mail-Agenten entwickelt, der E-Mails einliest, zusammenfasst und Antwortvorschläge erstellt. Außerdem erkennt er Termine in E-Mails und kann diese in einen Kalender eintragen.
+Ich habe einen KI-E-Mail-Agenten für Markler entwickelt, der E-Mails einliest, zusammenfasst und Antwortvorschläge erstellt. Außerdem erkennt er Termine in E-Mails und kann diese in einen Kalender eintragen.
 
 **Technische Schwerpunkte:**
 - Verarbeitung und Analyse von E-Mail-Inhalten
