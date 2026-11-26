@@ -14,7 +14,7 @@ Besonders interessiert mich, wie sich verschiedene Technologien miteinander verb
 
 ## Projekte
 
-### 1. KI-Telefon-Assistent
+### 1. KI-Telefon-Assistent(Demo)
 
 **Einzelprojekt · Python · FastAPI · Supabase · SQL · Retell AI**
 
