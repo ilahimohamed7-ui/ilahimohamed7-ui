@@ -44,7 +44,25 @@ Ich habe einen KI-E-Mail-Agenten für Markler entwickelt, der E-Mails einliest, 
 
 Der vollständige Quellcode bleibt privat. Eine öffentliche Projektbeschreibung und eine Demo können separat bereitgestellt werden.
 
-### 3. Full-Stack-To-do-App
+### 3. Curio: KI-gestützter Wissens-Feed
+
+**Einzelprojekt · Angular 21 · TypeScript · Supabase · PostgreSQL · Google Gemini · GitHub Actions**
+
+Curio ist eine Webanwendung, in der Nutzer ihre Interessen auswählen und täglich neue, kurze Wissensbeiträge zu diesen Themen bekommen. Die Beiträge werden jeden Morgen automatisch mit Google Gemini erzeugt und im Feed als KI-generiert gekennzeichnet.
+
+Beim Aufbau habe ich mich an aktuellen Angular-Standards und an einer Architektur orientiert, wie sie auch in größeren Projekten eingesetzt wird. Meine Architekturentscheidungen habe ich in kurzen ADRs dokumentiert.
+
+**Technische Schwerpunkte:**
+- Frontend mit Angular 21 (zoneless, Signals, Resource-API, Reactive Forms, Lazy Loading)
+- Aufteilung nach Fachbereichen und Schichten, automatisch geprüft mit Sheriff
+- Zugriffsschutz direkt in der Datenbank mit Row Level Security
+- Tägliche KI-Beiträge über eine Supabase Edge Function mit Gemini und pg_cron
+- 44 Unit- und Komponententests mit Vitest
+- CI/CD mit GitHub Actions und automatischem Deployment auf GitHub Pages
+
+[Live-Demo ansehen](https://ilahimohamed7-ui.github.io/curio-frontend/) · [Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/curio-frontend)
+
+### 4. Full-Stack-To-do-App
 
 **Abgeschlossenes Projekt · React · Node.js · Express · JavaScript · PostgreSQL · MongoDB**
 
@@ -61,7 +79,7 @@ Das Frontend basiert auf React, während Node.js und Express für die serverseit
 
 [Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/ToDo-App)
 
-### 4. Patientenverwaltung
+### 5. Patientenverwaltung
 
 **C++ · Qt · Desktop-Entwicklung**
 
@@ -75,7 +93,7 @@ Eine Desktop-Anwendung zur Verwaltung von Patientendaten, die ich mit C++ und Qt
 
 [Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/patient-management-qt-cpp)
 
-### 5. Minesweeper
+### 6. Minesweeper
 
 **C++ · Qt · Objektorientierte Programmierung**
 
@@ -89,7 +107,7 @@ Eine Desktop-Version des klassischen Minesweeper-Spiels. Bei der Umsetzung habe 
 
 [Repository auf GitHub ansehen](https://github.com/ilahimohamed7-ui/minesweeper-qt-cpp)
 
-### 6. Smart-Watering-System
+### 7. Smart-Watering-System
 
 **Teamprojekt · 4 Personen · Arduino · Raspberry Pi · Scrum · Jira**
 
